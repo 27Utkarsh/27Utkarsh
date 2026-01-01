@@ -1,7 +1,12 @@
 ## Hi there 👋
 
 # 💫 About Me:
-🔭 I’m an Comp Sci & AI Undergrad student @ University of York<br>🤝 Looking forward to learn and work with all kinds of languages and projects<br>🌱 Currently learning and working with Java, Python, FastApi, Typescript, JS, C, Assembly, Arduino
+🔭 I’m an Comp Sci & AI Undergrad student @ University of York<br>🤝 Looking forward to learn and work with all kinds of languages and projects<br>🌱 Currently learning and working with Java, Python, FastApi, Typescript, JS, C, Assembly, Arduino<br>
+
+**#🎯 Goals for 2026 :**
+Learn C#
+Sharpen up Web Development Skills.
+Learn to work with Unity and Unreal Engine.
 
 
 ## 🌐 Socials:
